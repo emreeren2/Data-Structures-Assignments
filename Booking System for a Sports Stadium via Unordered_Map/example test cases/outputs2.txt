@@ -1,0 +1,140 @@
+
+Mars
+~~~~~~~
+R0 : --- --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Jupyter
+~~~~~~~
+R0 : --- --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Earth
+~~~~~~~
+R0 : --- --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Pluto
+~~~~~~~
+R0 : --- --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Matt has reserved Mars R0-0 by emptiest block
+Angelina has reserved Jupyter R0-0 by emptiest block
+Brad has reserved Earth R0-0 by emptiest block
+Micheal has reserved Pluto R0-0 by emptiest block
+
+Mars
+~~~~~~~
+R0 : Mat --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Jupyter
+~~~~~~~
+R0 : Ang --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Earth
+~~~~~~~
+R0 : Bra --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Pluto
+~~~~~~~
+R0 : Mic --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Brad could not reserve a seat!
+Kevin has reserved Mars R0-1 by emptiest block
+Cancelled the reservation of Matt
+
+Mars
+~~~~~~~
+R0 : --- Kev 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Jupyter
+~~~~~~~
+R0 : Ang --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Earth
+~~~~~~~
+R0 : Bra --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Pluto
+~~~~~~~
+R0 : Mic --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Debra has reserved Mars R0-0 by emptiest block
+
+Mars
+~~~~~~~
+R0 : Deb Kev 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Jupyter
+~~~~~~~
+R0 : Ang --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Earth
+~~~~~~~
+R0 : Bra --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+
+Pluto
+~~~~~~~
+R0 : Mic --- 
+R1 : --- --- 
+R2 : --- --- 
+R3 : --- --- 
+=======
+

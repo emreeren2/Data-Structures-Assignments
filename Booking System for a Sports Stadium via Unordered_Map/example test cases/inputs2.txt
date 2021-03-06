@@ -1,0 +1,15 @@
+Mars Jupyter Earth Pluto
+R0 R1 R2 R3
+2
+print
+reserve_seat_by_row Matt R0
+reserve_seat_by_row Angelina R0
+reserve_seat_by_row Brad R0
+reserve_seat_by_row Micheal R0
+print
+reserve_seat_by_row Brad R1
+reserve_seat_by_row Kevin R0
+cancel_reservation Matt
+print
+reserve_seat_by_row Debra R0
+print

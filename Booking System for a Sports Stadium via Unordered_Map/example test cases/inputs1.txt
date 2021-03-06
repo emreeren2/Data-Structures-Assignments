@@ -1,0 +1,32 @@
+Konya Bursa Ankara
+A1 B1 C1 A2 B2 C2
+4
+print
+reserve_seat Ahmet Konya A1 0
+reserve_seat Kamer Bursa A1 1
+reserve_seat Cemal Ankara A1 2
+reserve_seat Elif Konya B1 2
+reserve_seat Mehmet Bursa B2 1
+reserve_seat Reyyan Bursa B1 3
+print
+reserve_seat Albert Ankara B1 2
+reserve_seat Gizem Konya C1 1
+reserve_seat Batuhan Konya C1 2
+reserve_seat Pelinsu Bursa C1 3
+reserve_seat Atahan Ankara C1 1
+print
+reserve_seat Fatih Ankara C1 2
+reserve_seat Selim Konya A2 1
+reserve_seat Banu Bursa A2 2
+cancel_reservation Utku
+reserve_seat Utku Ankara A2 0
+cancel_reservation Utku
+reserve_seat Soner Konya B2 2
+reserve_seat Taha Bursa B2 0
+get_seat Dua
+reserve_seat Dua Ankara B2 1
+get_seat Dua
+reserve_seat Meriam Bursa C2 2
+print
+reserve_seat_by_row Emre C1
+print
