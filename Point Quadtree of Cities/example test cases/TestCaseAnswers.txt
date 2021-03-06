@@ -1,0 +1,196 @@
+Chicago
+Mobile
+Miami
+Atlanta
+Columbia
+Richmond
+Memphis
+Tucson
+Omaha
+Seattle
+Toronto
+Buffalo
+Houston
+Austin
+Detroit
+Denver
+
+------------------------
+queries0.txt:
+
+Atlanta, Columbia, Richmond
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond
+
+Tucson, Omaha
+Chicago, Mobile, Memphis, Tucson, Omaha, Seattle, Denver
+
+<None>
+Chicago, Toronto
+
+Miami, Atlanta, Columbia, Richmond, Buffalo
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Memphis, Tucson, Toronto, Buffalo, Houston, Austin, Detroit
+
+Toronto, Buffalo, Houston, Austin
+Chicago, Toronto, Buffalo, Houston, Austin, Detroit
+
+------------------------
+queries1.txt:
+
+<None>
+Chicago, Mobile, Atlanta, Columbia, Richmond, Toronto, Buffalo, Detroit
+
+Buffalo
+Chicago, Mobile, Atlanta, Columbia, Richmond, Toronto, Buffalo, Houston, Austin
+
+Memphis
+Chicago, Mobile, Memphis, Tucson, Omaha, Seattle
+
+Toronto, Houston, Austin
+Chicago, Toronto, Buffalo, Houston, Austin, Detroit, Denver
+
+Miami
+Chicago, Mobile, Miami
+
+------------------------
+queries2.txt:
+
+Chicago, Tucson, Toronto, Buffalo, Houston, Austin, Detroit
+Chicago, Mobile, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Houston, Austin, Detroit, Denver
+
+Seattle
+Chicago, Mobile, Memphis, Omaha, Seattle
+
+<None>
+Chicago, Toronto, Buffalo, Houston, Austin
+
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Houston, Austin, Detroit, Denver
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Houston, Austin, Detroit, Denver
+
+Tucson
+Chicago, Mobile, Memphis, Tucson, Omaha, Seattle
+
+------------------------
+queries3.txt:
+
+<None>
+Chicago, Toronto, Detroit, Denver
+
+<None>
+Chicago, Toronto, Buffalo
+
+<None>
+Chicago, Denver
+
+Chicago, Mobile, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Toronto, Buffalo, Houston, Austin, Detroit
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Houston, Austin, Detroit, Denver
+
+Chicago, Memphis, Tucson, Omaha, Detroit, Denver
+Chicago, Mobile, Memphis, Tucson, Omaha, Seattle, Toronto, Detroit, Denver
+
+------------------------
+queries4.txt:
+
+Chicago, Mobile, Memphis, Tucson, Omaha, Seattle, Detroit, Denver
+Chicago, Mobile, Miami, Atlanta, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Detroit, Denver
+
+Chicago, Memphis, Tucson, Omaha, Detroit, Denver
+Chicago, Mobile, Memphis, Tucson, Omaha, Seattle, Toronto, Detroit, Denver
+
+Toronto, Buffalo, Houston, Austin
+Chicago, Toronto, Buffalo, Houston, Austin, Detroit
+
+Detroit
+Chicago, Mobile, Atlanta, Memphis, Tucson, Toronto, Detroit
+
+<None>
+Chicago, Mobile, Atlanta, Memphis, Tucson, Toronto, Buffalo, Detroit
+
+------------------------
+queries5.txt:
+
+Denver
+Chicago, Mobile, Memphis, Tucson, Toronto, Detroit, Denver
+
+Omaha, Denver
+Chicago, Omaha, Seattle, Denver
+
+<None>
+Chicago, Omaha, Denver
+
+Chicago, Memphis, Tucson, Omaha, Detroit, Denver
+Chicago, Mobile, Miami, Atlanta, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Houston, Detroit, Denver
+
+Chicago, Mobile, Memphis, Tucson, Omaha, Seattle, Detroit
+Chicago, Mobile, Miami, Atlanta, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Detroit, Denver
+
+------------------------
+queries6.txt:
+
+<None>
+Chicago, Mobile, Atlanta
+
+<None>
+Chicago, Toronto, Detroit, Denver
+
+Toronto, Buffalo, Houston, Austin, Detroit
+Chicago, Mobile, Atlanta, Columbia, Richmond, Memphis, Tucson, Toronto, Buffalo, Houston, Austin, Detroit, Denver
+
+Toronto, Buffalo, Houston, Austin
+Chicago, Mobile, Atlanta, Columbia, Richmond, Memphis, Tucson, Toronto, Buffalo, Houston, Austin, Detroit
+
+Chicago, Tucson, Omaha, Detroit, Denver
+Chicago, Mobile, Memphis, Tucson, Omaha, Seattle, Toronto, Detroit, Denver
+
+------------------------
+queries7.txt:
+
+Miami, Atlanta, Columbia, Richmond
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Toronto, Buffalo, Detroit
+
+<None>
+Chicago, Mobile, Atlanta
+
+Chicago, Memphis, Tucson, Omaha, Detroit
+Chicago, Mobile, Atlanta, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Detroit, Denver
+
+<None>
+Chicago, Denver
+
+Toronto, Buffalo, Houston, Austin
+Chicago, Mobile, Atlanta, Columbia, Richmond, Memphis, Tucson, Toronto, Buffalo, Houston, Austin, Detroit
+
+------------------------
+queries8.txt:
+
+<None>
+Chicago, Omaha, Denver
+
+Miami, Atlanta, Columbia, Richmond
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Memphis, Tucson, Toronto, Buffalo, Detroit
+
+Denver
+Chicago, Omaha, Denver
+
+<None>
+Chicago, Mobile, Atlanta, Columbia, Richmond, Toronto, Buffalo
+
+<None>
+Chicago, Toronto
+
+------------------------
+queries9.txt:
+
+Seattle
+Chicago, Mobile, Memphis, Omaha, Seattle
+
+Chicago, Toronto, Buffalo, Houston, Austin, Detroit
+Chicago, Mobile, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Toronto, Buffalo, Houston, Austin, Detroit, Denver
+
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Seattle, Detroit
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Detroit, Denver
+
+<None>
+Chicago, Toronto, Buffalo, Detroit
+
+Mobile, Miami, Atlanta, Columbia, Richmond, Seattle
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Memphis, Tucson, Omaha, Seattle

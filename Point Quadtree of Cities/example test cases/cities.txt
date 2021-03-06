@@ -1,0 +1,18 @@
+100 100
+Chicago 35 42
+Mobile 52 10
+Toronto 62 77
+Buffalo 82 65
+Denver 5 45
+Omaha 27 35
+Atlanta 85 15
+Miami 90 5
+Seattle 34 0
+Houston 62 67
+Austin 73 72
+Memphis 35 23
+Columbia 86 15
+Richmond 87 15
+Detroit 42 42
+Tucson 35 35
+Nowhere 129 30
