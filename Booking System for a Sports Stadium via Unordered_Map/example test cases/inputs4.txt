@@ -1,0 +1,17 @@
+EastWing WestWing 
+NOR VIP 
+3
+reserve_seat Dresden EastWing VIP 1
+reserve_seat Ortego WestWing VIP 1
+print
+reserve_seat_by_row Molly NOR
+reserve_seat_by_row Wraith NOR
+print
+reserve_seat_by_row Martin NOR
+reserve_seat_by_row Archive NOR
+reserve_seat_by_row Suzan NOR
+print
+get_seat Ortego
+cancel_reservation Ortego
+get_seat Ortego
+print

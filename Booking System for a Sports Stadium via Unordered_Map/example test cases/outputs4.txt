@@ -1,0 +1,62 @@
+Dresden has reserved EastWing VIP-1
+Ortego has reserved WestWing VIP-1
+
+EastWing
+~~~~~~~
+NOR : --- --- --- 
+VIP : --- Dre --- 
+=======
+
+WestWing
+~~~~~~~
+NOR : --- --- --- 
+VIP : --- Ort --- 
+=======
+
+Molly has reserved EastWing NOR-0 by emptiest block
+Wraith has reserved WestWing NOR-0 by emptiest block
+
+EastWing
+~~~~~~~
+NOR : Mol --- --- 
+VIP : --- Dre --- 
+=======
+
+WestWing
+~~~~~~~
+NOR : Wra --- --- 
+VIP : --- Ort --- 
+=======
+
+Martin has reserved EastWing NOR-1 by emptiest block
+Archive has reserved WestWing NOR-1 by emptiest block
+Suzan has reserved EastWing NOR-2 by emptiest block
+
+EastWing
+~~~~~~~
+NOR : Mol Mar Suz 
+VIP : --- Dre --- 
+=======
+
+WestWing
+~~~~~~~
+NOR : Wra Arc --- 
+VIP : --- Ort --- 
+=======
+
+Found that Ortego has a reservation in WestWing VIP-1
+Cancelled the reservation of Ortego
+There is no reservation made for Ortego!
+
+EastWing
+~~~~~~~
+NOR : Mol Mar Suz 
+VIP : --- Dre --- 
+=======
+
+WestWing
+~~~~~~~
+NOR : Wra Arc --- 
+VIP : --- --- --- 
+=======
+

@@ -1,0 +1,25 @@
+Shenna Rose Maria
+1Kat 2Kat 3Kat
+4
+print
+get_seat Eren
+reserve_seat_by_row Eren 1Kat
+get_seat Eren
+reserve_seat_by_row Mikasa 1Kat
+print
+get_seat Eren
+cancel_reservation Mikasa
+reserve_seat_by_row Eren 2Kat
+cancel_reservation Eren
+print
+reserve_seat_by_row Eren 3Kat
+reserve_seat_by_row Mikasa 2Kat
+reserve_seat Armin Maria 1Kat 1
+print
+cancel_reservation Eren
+cancel_reservation Eren
+get_seat Jean
+reserve_seat Eren Maria 1Kat 2
+cancel_reservation Mikasa
+reserve_seat Mikasa Maria 1Kat 3
+print

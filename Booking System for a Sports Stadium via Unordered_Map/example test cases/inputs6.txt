@@ -1,0 +1,18 @@
+0 1 2 3
+0 1 2 3
+4
+get_seat 1st
+reserve_seat 1st 0 2 1
+reserve_seat 2nd 0 2 1
+reserve_seat 2nd 0 1 1
+reserve_seat_by_row 3rd 1
+print
+reserve_seat_by_row 4th 1
+reserve_seat_by_row 5th 3
+print
+reserve_seat_by_row 5th 3
+reserve_seat_by_row 5th 0
+reserve_seat_by_row 6th 3
+reserve_seat_by_row 7th 3
+print
+

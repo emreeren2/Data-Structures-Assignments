@@ -1,0 +1,18 @@
+Comp1 Comp2 
+B1 B2
+2
+reserve_seat_by_row TinTin B1
+reserve_seat_by_row Spiderman B1
+reserve_seat_by_row Batman B1
+reserve_seat_by_row Superman B1
+print
+reserve_seat_by_row Thor B1
+reserve_seat_by_row Thor B2
+print
+reserve_seat_by_row CAmerica B1
+print
+cancel_reservation Supermat
+cancel_reservation Superman
+print
+reserve_seat BWidow Comp2 B1 1
+print

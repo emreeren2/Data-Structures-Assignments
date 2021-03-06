@@ -1,0 +1,75 @@
+TinTin has reserved Comp1 B1-0 by emptiest block
+Spiderman has reserved Comp2 B1-0 by emptiest block
+Batman has reserved Comp1 B1-1 by emptiest block
+Superman has reserved Comp2 B1-1 by emptiest block
+
+Comp1
+~~~~~~~
+B1 : Tin Bat 
+B2 : --- --- 
+=======
+
+Comp2
+~~~~~~~
+B1 : Spi Sup 
+B2 : --- --- 
+=======
+
+Thor could not reserve a seat!
+Thor has reserved Comp1 B2-0 by emptiest block
+
+Comp1
+~~~~~~~
+B1 : Tin Bat 
+B2 : Tho --- 
+=======
+
+Comp2
+~~~~~~~
+B1 : Spi Sup 
+B2 : --- --- 
+=======
+
+CAmerica could not reserve a seat!
+
+Comp1
+~~~~~~~
+B1 : Tin Bat 
+B2 : Tho --- 
+=======
+
+Comp2
+~~~~~~~
+B1 : Spi Sup 
+B2 : --- --- 
+=======
+
+Could not cancel the reservation for Supermat; no reservation found!
+Cancelled the reservation of Superman
+
+Comp1
+~~~~~~~
+B1 : Tin Bat 
+B2 : Tho --- 
+=======
+
+Comp2
+~~~~~~~
+B1 : Spi --- 
+B2 : --- --- 
+=======
+
+BWidow has reserved Comp2 B1-1
+
+Comp1
+~~~~~~~
+B1 : Tin Bat 
+B2 : Tho --- 
+=======
+
+Comp2
+~~~~~~~
+B1 : Spi BWi 
+B2 : --- --- 
+=======
+

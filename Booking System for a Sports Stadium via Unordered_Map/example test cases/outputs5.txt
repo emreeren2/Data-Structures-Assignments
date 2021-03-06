@@ -1,0 +1,127 @@
+
+Shenna
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Rose
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Maria
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+There is no reservation made for Eren!
+Eren has reserved Shenna 1Kat-0 by emptiest block
+Found that Eren has a reservation in Shenna 1Kat-0
+Mikasa has reserved Rose 1Kat-0 by emptiest block
+
+Shenna
+~~~~~~~
+1Kat : Ere --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Rose
+~~~~~~~
+1Kat : Mik --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Maria
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Found that Eren has a reservation in Shenna 1Kat-0
+Cancelled the reservation of Mikasa
+Eren could not reserve a seat!
+Cancelled the reservation of Eren
+
+Shenna
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Rose
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Maria
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Eren has reserved Shenna 3Kat-0 by emptiest block
+Mikasa has reserved Shenna 2Kat-0 by emptiest block
+Armin has reserved Maria 1Kat-1
+
+Shenna
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : Mik --- --- --- 
+3Kat : Ere --- --- --- 
+=======
+
+Rose
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Maria
+~~~~~~~
+1Kat : --- Arm --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Cancelled the reservation of Eren
+Could not cancel the reservation for Eren; no reservation found!
+There is no reservation made for Jean!
+Eren has reserved Maria 1Kat-2
+Cancelled the reservation of Mikasa
+Mikasa has reserved Maria 1Kat-3
+
+Shenna
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Rose
+~~~~~~~
+1Kat : --- --- --- --- 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
+Maria
+~~~~~~~
+1Kat : --- Arm Ere Mik 
+2Kat : --- --- --- --- 
+3Kat : --- --- --- --- 
+=======
+
